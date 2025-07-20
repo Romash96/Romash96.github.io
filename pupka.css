@@ -1,0 +1,16 @@
+body {font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 1.5;
+background-color: #2F4F4F;
+color: beige;
+width: 980px;
+margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+main > h2 {
+    text-align: center;
+    font-size: 25px;
+}
